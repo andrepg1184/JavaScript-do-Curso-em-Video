@@ -4,6 +4,12 @@ body{
 
 
 }
+header{
+    color:white;
+    text-align: center;
+
+}
+
 section{
     background: white;
     border-radius: 10px;
@@ -13,11 +19,11 @@ section{
     box-shadow:5px 5px 10px rgba(0, 0, 0, 0.719);
 }
 
-header{
-    color:white;
-    text-align: center;
-
+div{
+    text-align:center;
+    padding: 5px;
 }
+
 
 footer{
     color: white;
