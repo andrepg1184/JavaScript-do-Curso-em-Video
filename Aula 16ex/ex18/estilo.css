@@ -10,7 +10,7 @@ header{
 
 }
 
-select#flista{
+select#fLista{
     width:150px;
 }
 
@@ -24,7 +24,6 @@ section{
 }
 
 div{
-    text-align:;
     padding: 8px;
 }
 
